@@ -1,0 +1,4 @@
+    - name: 'Jenkins'
+      path: '~/plugins/siriproxy-jenkins'
+      host: 'http://localhost:8080'
+      prowl_api_keys: ['abcdef123456']
